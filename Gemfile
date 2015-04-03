@@ -3,3 +3,4 @@ bundle install
 gem install github-pages
 bundle exec jekyll serve
 gem update github-pages
+gem 'wdm', '~> 0.1.0' if Gem.win_platform?
