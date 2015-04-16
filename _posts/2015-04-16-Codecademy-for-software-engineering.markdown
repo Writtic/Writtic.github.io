@@ -28,11 +28,11 @@ I learned HTML & CSS, JavaScript, Python, PHP and Ruby.
 
 ### Ruby
 <p><img src="http://i.imgur.com/drJgqY5.png" alt=""></p>
-1. When it comes to Ruby, It almost seems like English.
+1. Ruby is Object-oriented, meaning it allows users to manipulate data structures called objects in order to build and execute programs.
 2. Ruby is not too unique, so a programmer with basic knowledge of programming languages can learn it very quickly.
 3. Blocks, the syntax of Ruby, allow arbitrary, multi-line closures to be cleanly passed in-line anywhere. But syntactically Lambdas in Python can only easy express a single expression, not multiple nested statements.
-4. Mix-ins allow imported classes and modules to be extended and overridden by user code after it is imported.
-5. PHP's syntax is procedural assigning values to fields of an object, rather than declarative and identical to the standard class definition syntax.
+4. Interpreted, meaning you don't need a compiler to write and run Ruby.
+5. Mix-ins allow imported classes and modules to be extended and overridden by user code.
 
 ### Python
 <p><img src="http://i.imgur.com/dVzq5kn.png" alt=""></p>
