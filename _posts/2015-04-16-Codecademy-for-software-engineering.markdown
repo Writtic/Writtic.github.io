@@ -8,19 +8,14 @@ date:   2015-04-16
 I learned HTML & CSS, JavaScript, Python, PHP and Ruby.
 
 <p><img src="http://i.imgur.com/RrAPjGv.png?1" alt=""></p>
-<p class="intro"><span class="dropcap">H</span></p>
-### TML & CSS
+<p class="intro"><span class="dropcap">H</span>TML & CSS</p>
 <p><img src="http://i.imgur.com/QIgQOow.png" alt=""></p>
-<p class="intro"><span class="dropcap">J </span></p>
-### ava Script
+<p class="intro"><span class="dropcap">J </span>ava Script</p>
 <p><img src="http://i.imgur.com/LisHtUB.png" alt=""></p>
-<p class="intro"><span class="dropcap">P</span></p>
-### HP
+<p class="intro"><span class="dropcap">P</span>HP</p>
 <p><img src="http://i.imgur.com/IzFFRvf.png" alt=""></p>
-<p class="intro"><span class="dropcap">R</span></p>
-### uby
+<p class="intro"><span class="dropcap">R</span>uby</p>
 <p><img src="http://i.imgur.com/drJgqY5.png" alt=""></p>
-<p class="intro"><span class="dropcap">P</span></p>
-### ython
+<p class="intro"><span class="dropcap">P</span>ython</p>
 <p><img src="http://i.imgur.com/dVzq5kn.png" alt=""></p>
 
