@@ -13,14 +13,14 @@ I learned HTML & CSS, JavaScript, Python, PHP and Ruby.
 ### Java Script
 <p><img src="http://i.imgur.com/LisHtUB.png" alt=""></p>
 1. The Javascript is implemented on the user's processor instead of the web server therefore saving bandwidth and pressure on the web server.
-2. The Javascript is relatively easy to study and comprises of syntax that is close to English.
+2. The Javascript is relatively easy to study and comprises of syntax that is close to English and that is similar to C and Java programming languages.
 3. Third party add-ons like Greasemonkey from FireFox make Javascript developers write snippets of Javascript which can execute on desired web pages to extend its functionality.
 4. Tasks in javascript on web pages are usually simple so as to prevent being a memory hog.
 5. Regardless of Operating System the Javascript works very well.
 
 ### PHP
 <p><img src="http://i.imgur.com/IzFFRvf.png" alt=""></p>
-1. PHP can be easily embedded directly into HTML.
+1. PHP can be easily embedded directly into HTML due to the syntax <?php ?>.
 2. PHP Runs on practically any platform - not only on Linux, but also, for example, on Windows, Unix, and IBM's System.
 3. We can carry out changes even after starting development, without losing valuable time due to 'Flexibility'.
 4. Thanks to the popularity of the PHP, the number of free resources online and offline is continuously growing because of open source.
