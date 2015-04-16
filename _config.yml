@@ -1,10 +1,10 @@
-title: Long Haul
+title: Writtic's forge
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
-url: http://brianmaierjr.github.com/long-haul
-baseurl: ""
-paginate_path: "blog/page:num/"
-permalink: blog/:title/
+url: http://writtic.github.io/index.html
+baseurl: "http://writtic.github.io/index.html"
+paginate_path: "http://blog.naver.com/writtic/"
+permalink: http://blog.naver.com/writtic
 
 markdown: redcarpet
 highlighter: pygments
@@ -19,9 +19,9 @@ navigation:
    url: /contact
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   github: https://github.com/Writtic
+   twitter: None
+   facebook: https://www.facebook.com/Writtic
+   email: Writtic@gmail.com
 
 google_analytics: "UA-58263416-1"
