@@ -5,21 +5,22 @@ date:   2015-04-16
 ---
 
 <p class="intro"><span class="dropcap">T</span>his is what I've done for the report of software engineering. 
-I learned HTML & CSS, JavaScript, Python, PHP and Ruby.</p>
-<p> </p>
+I learned HTML & CSS, JavaScript, Python, PHP and Ruby.
+</b>
 <img src="http://i.imgur.com/RrAPjGv.png?1" alt="">
-<p class="intro"><span class="dropcap">H</span>TML & CSS</p>
-<p> </p>
+<p class="intro"><span class="dropcap">H</span>TML & CSS
+</b>
 <img src="http://i.imgur.com/QIgQOow.png" alt=""> 
-<p class="intro"><span class="dropcap">J</span>ava Script</p>
-<p> </p>
+<p class="intro"><span class="dropcap">J</span>ava Script
+</b>
 <img src="http://i.imgur.com/LisHtUB.png" alt=""> 
-<p class="intro"><span class="dropcap">P</span>HP</p>
-<p> </p>
+<p class="intro"><span class="dropcap">P</span>HP
+</b>
 <img src="http://i.imgur.com/IzFFRvf.png" alt="">
-<p class="intro"><span class="dropcap">R</span>uby</p>
-<p> </p>
+<p class="intro"><span class="dropcap">R</span>uby
+</b>
 <img src="http://i.imgur.com/drJgqY5.png" alt="">
-<p class="intro"><span class="dropcap">P</span>ython</p>
-<p> </p>
+<p class="intro"><span class="dropcap">P</span>ython
+</b>
 <img src="http://i.imgur.com/dVzq5kn.png" alt=""> 
+</p>
