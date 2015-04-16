@@ -1,35 +1,63 @@
-## About
-Emerald is a minimal theme created for Jekyll. The main purpose of Emerald is to provide a clear theme for those who want a blog ready to use, focused on the content and mobile-first.
+# Jekyll Incorporated
+Modern Jekyll based blog. Great for companies, products or anything. See live at [blog.sendtoinc.com](http://blog.sendtoinc.com)
 
-![Emerald](/img/Emerald01.png "Emerald")
+## Installation & Usage
+    bundle install
+    jekyll serve --watch
 
-## Setup & usage
-Emerald may be installed by simply downloading the .zip folder frome the [repository on Github](https://github.com/KingFelix/emerald/archive/master.zip).
+_Note: Requires Ruby version 1.9.3 =>. For example use [rbenv](https://github.com/sstephenson/rbenv)_   
+    
+## Configuration
+Edit: _config.yml (general options), main.css (theme colors &amp; fonts)
 
-After extracting the content from the folder into the selected directory, you can type ``jekyll serve`` from the terminal, than open your browser to ``0.0.0.0:4000/emerald/`` and you will find there.
+```
+jekyll-incorporated/
+├── _config.yml
+├── _assets/
+    ├── stylesheets/
+        ├── main.scss
+```
 
-Additionally it is possible to fork the repository and using Github Pages as hosting. By following this way it will enough change the ``baseurl`` value into the ``_config.yml`` file, with the directory name of your project (for example /blog) or with a simply "/" (slash) if you want install Emerald in the root.
+_Note: when editing _config.yml, you need to restart jekyll to see the changes.__
 
-### Branch
-Emerald has two branch: 
-- ``master``: is for developing pourpose.
-- ``gh-pages``: is only for demo site.  
+    
+## Publish to Github Pages
+1. Add your domain to _CNAME_
+2. Edit your repo address at _Rakefile_
+    
+Run rake task. **NOTE: It will deploy the generated site to _gh-pages_ branch overwriting it**    
+``` 
+rake site:publish
+```
 
-### Baseurl
-Emerald was tought to be used mainly with Github, in particular into [project site](https://pages.github.com/). For this reason they have been included several tags ``{{ site.baseurl }}`` to refer to the "/emerald/" directory.
-You can change the "baseurl" value into the ``config.yml`` file, to match your directory (for example "/blog/") or the root of your project. In that case you must set the "baseurl" value to "/".
+## Usage examples
 
-### Typography
-To maintain the vertical rythm, it has been applied a **Typographic scale** as a modular scale, with a baseline set to 24px. To maintain this rythm you need to insert elements like image, video or other contents with a 24px (or multiple) height as refer.
+* Adroll Engineering http://tech.adroll.com/
+* Brace.io blog http://blog.brace.io/
+* Spark.io blog http://blog.spark.io/
+* Department of Better Technology http://blog.dobt.co/
 
-Last but not last: the [Jekyll documentation](http://jekyllrb.com) is the best starting point! 
+## Authors
 
-## Author
+Originally build for [sendtoinc.com](https://sendtoinc.com), your workspace for sharing and organizing knowledge
 
-### Jacopo Rabolini
+**Karri Saarinen**
 
-- Web site: [www.jacoporabolini.com](http://www.jacoporabolini.com)
-- Google+: [+JacopoRabolini](https://plus.google.com/u/0/+JacopoRabolini/posts)
++ [http://twitter.com/karrisaarinen](http://twitter.com/karrisaarinen)
++ [http://github.com/ksaa](http://github.com/ksaa)
 
-## License
-Emerald is released under [MIT License](license.md).
+**Jori Lallo**
+
++ [http://twitter.com/jorilallo](http://twitter.com/jorilallo)
++ [http://github.com/jorde](http://github.com/jorilallo)
+
+## Todo:
+
++ Documentation
++ Less config files
++ Better deploy scripts
+
+## Copyright and license
+
+Copyright 2013 Kippt Inc. under [The MIT License ](LICENSE)
+
