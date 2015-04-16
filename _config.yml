@@ -2,7 +2,7 @@ title: Long Haul
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
 url: http://brianmaierjr.github.com/long-hau
-baseurl: "http://writtic.github.io/index.html"
+baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
@@ -20,7 +20,7 @@ navigation:
 
 social:
    github: https://github.com/Writtic
-   twitter: Writtic
+   twitter: @Writtic
    facebook: https://www.facebook.com/Writtic
    email: Writtic@gmail.com
 
