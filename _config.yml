@@ -3,8 +3,8 @@ description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
 url: http://writtic.github.io/index.html
 baseurl: "http://writtic.github.io/index.html"
-paginate_path: "http://blog.naver.com/writtic/"
-permalink: http://blog.naver.com/writtic
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
 
 markdown: redcarpet
 highlighter: pygments
