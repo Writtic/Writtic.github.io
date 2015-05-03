@@ -9,13 +9,13 @@ date:   2015-04-27
 <p><img src="http://i.imgur.com/qdn4ZPH.jpg" alt=""></p>
 <p><img src="http://i.imgur.com/qTqcuv7.jpg" alt=""></p>
 <p><img src="http://i.imgur.com/rPanW6b.jpg" alt=""></p>
-### Main function
+##### Main function
 1. 교수님으로부터 수업 초대요청을 받음
 2. 교수님께서 부여하신 토론 주제로 각 조별 토론방 개설
 3. 토론방은 맨 오른쪽 채팅창으로 프로그램의 중추역할을 함
 4. 드래그 앤 드롭 방식으로 참고자료를 토론방에 투척
 
-### Discussion point
+##### Discussion point
 1. 사용자인 교수와 학생이 경험하는 컨텐츠를 좀 더 분명하게 구분
 2. 사진의 3번째 페이지에 대한 세부적인 스토리 보드
 3. 프로그램의 주요 기능과 부수적인 기능 구분
