@@ -6,7 +6,7 @@ date:   2015-05-06
 
 <p class="intro"><span class="dropcap">I</span> suppose the details that is impressive are as below.</p>
 <img src="http://i.imgur.com/DpAaM0h.jpg">
-######1. <a herf="http://littlebigdetails.com/post/115120135930/yahoo-weather-screen-corners-frost-over-when" target=center>Yahoo Weather</a> - screen corners frost over when very cold temperature.  /via Rosie
+<p>1. <a herf="http://littlebigdetails.com/post/115120135930/yahoo-weather-screen-corners-frost-over-when" target=center>Yahoo Weather</a> - screen corners frost over when very cold temperature.  /via Rosie</p>
 <img src="http://i.imgur.com/GBXowFQ.gif">
 ######2. <a herf="http://littlebigdetails.com/post/113069501344/evernote-automatically-converts-date-format" target=center>Evernote</a> - Automatically converts date format dependent on column width.  /via Zac Davies
 <img src="http://i.imgur.com/ilPvavr.png">
