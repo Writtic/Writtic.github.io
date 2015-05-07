@@ -4,7 +4,7 @@ title:  "Little Big Details"
 date:   2015-05-06
 ---
 
-<p class="intro"><span class="dropcap">I</span> wanna show you the little big details that is, I suppose, very impressive are as below.</p>
+<p class="intro"><span class="dropcap">I</span> wanna show you the little big details I suppose very impressive are as below. </p>
 
 #####1. [Yahoo Weather](http://littlebigdetails.com/post/115120135930/yahoo-weather-screen-corners-frost-over-when) - screen corners frost over when very cold temperature.  /via Rosie
 * 사용자들이 직관적으로 오늘 어떤 옷을 입어야 할지 곁눈질만으로도 알 수 있는 인상적인 디자인이라 생각됩니다!
