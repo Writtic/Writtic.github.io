@@ -20,7 +20,6 @@ date:   2015-05-06
 #####3. [Paypal](http://littlebigdetails.com/post/75049516713/paypal-when-the-paypal-app-is-in-ios-app-switch) - When the PayPal app is in iOS app switch mode, activity and account details are blurred.
 * 보안을 중요시해야 하는 결제 서비스가 보여준 세심한 배려에 손뼉을 치고 싶습니다. 요즘은 스마트폰으로 개인 방송까지 해가며
 모두가 자신의 화면을 보여주려 안달이잖아요? 그럴 때 자신의 중요한 개인정보가 노출되면 어쩌죠!? 간단합니다! 페이팔로 결제를 하는 것이죠!
-
 <img width="200" height="315" src="http://i.imgur.com/RqnUoin.jpg">
 
 
