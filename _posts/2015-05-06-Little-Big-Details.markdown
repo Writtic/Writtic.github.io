@@ -27,15 +27,15 @@ date:   2015-05-06
 
 
 #####6. [Medullan](http://littlebigdetails.com/post/111862592839/medullan-when-selecting-an-inquiry-type-on-their) - When selecting an inquiry type on their contact form, it lets you know which actual person at their company will be getting your email.  /via Patrick Harrington
-<img width="500" height="315" src="http://i.imgur.com/gVyu7yx.png">
+<img width="540" height="315" src="http://i.imgur.com/gVyu7yx.png">
 
 
 #####7. [DuckDuckGo](http://littlebigdetails.com/post/103981934580/duckduckgo-visited-links-have-a-small-checkmark) - Visited links have a small checkmark next to them, rather than changing text color or underline.  /via Phil Smith 
-<img width="420" height="345" src="http://i.imgur.com/kOfuFU9.png">
+<img width="350" height="345" src="http://i.imgur.com/kOfuFU9.png">
 
 
 #####8. [BBC News](http://littlebigdetails.com/post/103638740520/bbc-news-when-an-article-that-is-older-than-1) - When an article that is older than 1 month is in the most popular items list there is a warning displayed underneath the title. /via Rob Farr
-<img width="270" height="315" src="http://i.imgur.com/GOORcCP.png">
+<img width="250" height="315" src="http://i.imgur.com/GOORcCP.png">
 
 
 #####9. [Google Maps](http://littlebigdetails.com/post/102531877124/google-maps-building-shadows-display-accurately) - Building shadows display accurately according to the time of day.
@@ -43,4 +43,4 @@ date:   2015-05-06
 
 
 #####10. [TED](http://littlebigdetails.com/post/82579470871/ted-as-you-scroll-down-the-video-continues-to) - As you scroll down, the video continues to play at the top left corner. /via Ross
-<img width="350" height="345" src="http://i.imgur.com/T2x1hhZ.png">
+<img width="330" height="345" src="http://i.imgur.com/T2x1hhZ.png">
