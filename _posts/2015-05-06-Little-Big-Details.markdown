@@ -12,8 +12,7 @@ date:   2015-05-06
 
 
 #####2. [Evernote](http://littlebigdetails.com/post/113069501344/evernote-automatically-converts-date-format) - Automatically converts date format dependent on column width.  /via Zac Davies
-* 문서 작업, 특히 좌우 폭이 좁은 디바이스들을 사용할 때 데이터 포맷이 잘려 열의 크기를 늘려줘야 하는 경우를 자주 경험하게 되죠.
-에버노트와 함께라면 그런 걱정을 덜 수 있을 것 같습니다.
+* 문서 작업, 특히 좌우 폭이 좁은 디바이스들을 사용할 때 데이터 포맷이 잘려 열의 크기를 늘려줘야 하는 경우를 자주 경험하게 되죠. 에버노트와 함께라면 그런 걱정을 덜 수 있을 것 같습니다.
 <img width="420" height="315" src="http://i.imgur.com/GBXowFQ.gif">
 
 
@@ -30,8 +29,7 @@ date:   2015-05-06
 
 
 #####5. [TwoDots](http://littlebigdetails.com/post/111955478525/twodots-theres-a-color-blind-in-the-settings) - There’s a “Color Blind” in the settings. /via Sara Clayton
-* 소프트웨어 개발자가 근본적으로 고민해야할 편의성을 아주 잘 고려한 것 같습니다. 특히나 색깔을 주제로 한 게임이라 더욱 눈에 띄네요.
-요즘같이 원색계통이 촌스럽게 느껴져 점점 체도가 낮은 색들을 사용하는 시기에 이런 옵션은 필수라고 생각됩니다.
+* 소프트웨어 개발자가 근본적으로 고민해야할 편의성을 아주 잘 고려한 것 같습니다. 특히나 색깔을 주제로 한 게임이라 더욱 눈에 띄네요. 요즘같이 원색계통이 촌스럽게 느껴져 점점 체도가 낮은 색들을 사용하는 시기에 이런 옵션은 필수라고 생각됩니다.
 <img width="270" height="345" src="http://i.imgur.com/CJFUTiK.png">
 
 
