@@ -32,7 +32,7 @@ date:   2015-05-06
 #####5. [TwoDots](http://littlebigdetails.com/post/111955478525/twodots-theres-a-color-blind-in-the-settings) - There’s a “Color Blind” in the settings. /via Sara Clayton
 * 소프트웨어 개발자가 근본적으로 고민해야할 편의성을 아주 잘 고려한 것 같습니다. 특히나 색깔을 주제로 한 게임이라 더욱 눈에 띄네요.
 요즘같이 원색계통이 촌스럽게 느껴져 점점 체도가 낮은 색들을 사용하는 시기에 이런 옵션은 필수라고 생각됩니다.
-<img width="270" height="315" src="http://i.imgur.com/CJFUTiK.png">
+<img width="270" height="345" src="http://i.imgur.com/CJFUTiK.png">
 
 
 #####6. [Medullan](http://littlebigdetails.com/post/111862592839/medullan-when-selecting-an-inquiry-type-on-their) - When selecting an inquiry type on their contact form, it lets you know which actual person at their company will be getting your email.  /via Patrick Harrington
