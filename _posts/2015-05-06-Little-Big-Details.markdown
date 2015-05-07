@@ -42,14 +42,12 @@ date:   2015-05-06
 
 
 #####7. [DuckDuckGo](http://littlebigdetails.com/post/103981934580/duckduckgo-visited-links-have-a-small-checkmark) - Visited links have a small checkmark next to them, rather than changing text color or underline.  /via Phil Smith 
-* 미 정부의 프리즘 프로젝트에 반발하여 만들어진 사이트인 DuckDuckGo... 과연 개인 정보 보호 이외의 가치가 있을지 의문이었습니다만,
-이 기능을 보고 나니 남들 앞에서 자랑할 가치는 있어 보이는군요! 되려 구글의 디자이너는 과연 그 많은 돈을 받고 무얼 하는지가 의문입니다!
+* 미 정부의 프리즘 프로젝트에 반발하여 만들어진 사이트인 DuckDuckGo... 과연 개인 정보 보호 이외의 가치가 있을지 의문이었습니다만, 이 기능을 보고 나니 남들 앞에서 자랑할 가치는 있어 보이는군요! 되려 구글의 디자이너는 과연 그 많은 돈을 받고 무얼 하는지가 의문입니다!
 <img width="350" height="345" src="http://i.imgur.com/kOfuFU9.png">
 
 
 #####8. [BBC News](http://littlebigdetails.com/post/103638740520/bbc-news-when-an-article-that-is-older-than-1) - When an article that is older than 1 month is in the most popular items list there is a warning displayed underneath the title. /via Rob Farr
-* 아무리 사람들이 많이 읽는 인기기사라고 해도 뉴스는 뉴스(News)입니다. 무심결에 흥미로운 기사를 읽게 되어 남들에게 열변을 토해냈는데,
-그게 사람들이 다 아는 뒷북이면 기분이 어떨까요...? BBC와 함께라면 그런 걱정은 없을 것 같네요!
+* 아무리 사람들이 많이 읽는 인기기사라고 해도 뉴스는 뉴스(News)입니다. 무심결에 흥미로운 기사를 읽게 되어 남들에게 열변을 토해냈는데, 그게 사람들이 다 아는 뒷북이면 기분이 어떨까요...? BBC와 함께라면 그런 걱정은 없을 것 같네요!
 <img width="250" height="315" src="http://i.imgur.com/GOORcCP.png">
 
 
@@ -61,7 +59,5 @@ date:   2015-05-06
 
 
 #####10. [TED](http://littlebigdetails.com/post/82579470871/ted-as-you-scroll-down-the-video-continues-to) - As you scroll down, the video continues to play at the top left corner. /via Ross
-* 테드 웹사이트는 정말 똑똑한 기능을 가지고 있습니다. 사람들은 소리만으로 영상이 어디쯤인지 알 수 없습니다.
-화면을 봐야만 하죠. 거기다 테드의 스크립트를 읽으며 영어 공부를 하는 사람들이라면 특히나요!
-정말 은혜로운 기능이 아닐 수 없습니다.
+* 테드 웹사이트는 정말 똑똑한 기능을 가지고 있습니다. 사람들은 소리만으로 영상이 어디쯤인지 알 수 없습니다. 화면을 봐야만 하죠. 거기다 테드의 스크립트를 읽으며 영어 공부를 하는 사람들이라면 특히나요! 정말 은혜로운 기능이 아닐 수 없습니다.
 <img width="330" height="345" src="http://i.imgur.com/T2x1hhZ.png">
