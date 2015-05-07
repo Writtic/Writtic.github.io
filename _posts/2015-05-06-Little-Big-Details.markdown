@@ -10,9 +10,9 @@ date:   2015-05-06
 * 사용자들이 직관적으로 오늘 어떤 옷을 입어야 할지 곁눈질만으로도 알 수 있는 인상적인 디자인이라 생각됩니다!
 <img width="200" height="315" src="http://i.imgur.com/DpAaM0h.jpg">
 
-
+<p>
 #####2. [Evernote](http://littlebigdetails.com/post/113069501344/evernote-automatically-converts-date-format) - Automatically converts date format dependent on column width.  /via Zac Davies
-* 문서 작업, 특히 좌우 폭이 좁은 디바이스들을 사용할 때 데이터 포맷이 잘려 열의 크기를 늘려줘야 하는 경우를 자주 경험하게 되죠. 에버노트와 함께라면 그런 걱정을 덜 수 있을 것 같습니다.
+* 문서 작업, 특히 좌우 폭이 좁은 디바이스들을 사용할 때 데이터 포맷이 잘려 열의 크기를 늘려줘야 하는 경우를 자주 경험하게 되죠. 에버노트와 함께라면 그런 걱정을 덜 수 있을 것 같습니다.</p>
 <img width="420" height="315" src="http://i.imgur.com/GBXowFQ.gif">
 
 
