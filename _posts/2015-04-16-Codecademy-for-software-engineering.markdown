@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Codecademy for software engineering"
+title:  "Studying on Codecademy"
 date:   2015-04-16
 ---
 
-<p class="intro"><span class="dropcap">T</span>his is what I've done for the report of software engineering. 
+<p class="intro"><span class="dropcap">T</span>his is what I've done for learning programming languages. 
 I learned HTML & CSS, JavaScript, Python, PHP and Ruby.
 <p><img src="http://i.imgur.com/RrAPjGv.png?1" alt=""></p>
 ### HTML & CSS
@@ -41,3 +41,5 @@ I learned HTML & CSS, JavaScript, Python, PHP and Ruby.
 3. The Python not just works on multiple systems, but it even has a similar interface on different platforms.
 4. The Python is quite simple to learn as its code resembles the pseudo code.
 5. The community of Python offers great amount of support to the Python users always.
+
+
